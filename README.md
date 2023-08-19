@@ -1,5 +1,8 @@
 # part-audio
 
 
-only neet install python and one *.wav file that this script chunk into parts.
+You only need to install Python and pydub 
 
+<code>pip install pydub</code> 
+
+this script can to chunking one *.wav file into parts.
